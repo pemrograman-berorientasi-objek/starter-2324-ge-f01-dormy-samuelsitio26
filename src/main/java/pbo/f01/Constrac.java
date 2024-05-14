@@ -3,7 +3,10 @@ package pbo.f01;
 import java.util.*;
 
 import pbo.f01.model.*;
-
+/**
+ * @author 12S22032 Samuel Sitio
+ * @author 12S22024 Pimpin loi
+ */
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;

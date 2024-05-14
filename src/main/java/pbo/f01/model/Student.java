@@ -2,7 +2,10 @@ package pbo.f01.model;
 
 import java.util.Set;
 import javax.persistence.*;
-
+/**
+ * @author 12S22032 Samuel Sitio
+ * @author 12S22024 Pimpin loi
+ */
 
 @Entity
 @Table(name = "students")

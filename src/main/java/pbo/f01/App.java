@@ -3,7 +3,10 @@ package pbo.f01;
 import java.util.Scanner;
 
 import pbo.f01.model.*;
-
+/**
+ * @author 12S22032 Samuel Sitio
+ * @author 12S22024 Pimpin loi
+ */
 public class App {
     public static void main(String[] _args) {
         Constrac constrac = new Constrac("dormy_pu");
